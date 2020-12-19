@@ -17,6 +17,7 @@ Simply download the from GitHub and extract the zip file.
 
 ## Changes Made
 
--Updated heading tags and put them in sequential order
--Added alt attributes to all images
--Added proper nav, section, article and aside tags
+* Added a proper title
+* Updated heading tags and put them in sequential order
+* Added alt attributes to all images
+* Added proper nav, section, article and aside tags
